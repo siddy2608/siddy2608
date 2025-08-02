@@ -1,16 +1,30 @@
-## Hi there 👋
+### 🌟 About Me:
+Hi! I'm [Your Name], a passionate Computer Science student.  
+💻 I specialize in Backend Development, Data Analysis, and App Development.  
+🚀 I love building projects and contributing to open-source.
 
-<!--
-**siddy2608/siddy2608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔗 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram)](https://instagram.com/yourusername)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack:
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+
+---
+
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
+
+---
+
+### 💬 Random Dev Quote:
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)

@@ -34,23 +34,7 @@ Hi! I'm Siddharth Mishra, a dedicated Computer Science student passionate about 
 
 ---
 
-### 💳 SQL-Based Transaction Debugger
-**Tech Stack**: Django, PostgreSQL, Chart.js, Bootstrap  
 
-🔧 **Financial Debugging Toolkit**:
-- **Advanced Transaction Analysis**:
-  - Failed transaction pattern detection
-  - Duplicate ID identification
-  - High-value (₹10k+) transaction monitoring
-- **Real-time Dashboards**:
-  - Processing time analytics (avg/min/max)
-  - Status-wise transaction distribution
-- **Operational Tools**:
-  - CSV export functionality
-  - Pre-built SQL query templates
-  - Role-based access control
-
-[![View Code](https://img.shields.io/badge/View_Code-GitHub-blue?style=for-the-badge)](https://github.com/siddy2608/transaction-dashboard)
 
 ---
 
